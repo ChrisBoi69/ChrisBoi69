@@ -10,6 +10,7 @@
 ### Some cool stuff:
 
 [<img align="left" alt="https://utilitymod.herokuapp.com/" width="22px" src="https://cdn.discordapp.com/avatars/822803004172140555/df057c3344c7063e4a62d13bddf3e4bb.png?size=128" />][UtilityMod Website]
+[<img align="left" alt="https://utilitymod.herokuapp.com/" width="22px" src="https://top.gg/images/dblnew.png" />][Top gg]
 
 <br />
 
@@ -33,6 +34,7 @@
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisboi69)](https://github.com/anuraghazra/github-readme-stats)
 
 [UtilityMod Website]: https://utilitymod.herokuapp.com/
+[Top gg]: https://top.gg/bot/822803004172140555/vote/
 [Visual Studio Code]: https://code.visualstudio.com/
 [HTML 5]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
